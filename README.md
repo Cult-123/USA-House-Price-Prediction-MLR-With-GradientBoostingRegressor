@@ -4,7 +4,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with 93.16
 ## Problem Statement
 A real state agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model. Create a model that will help him to estimate of what the house would sell for.
 
-The dataset contains 6 feature columns, 1 label/target column ('Price') and 5000 rows with CSV extension. The data contains the following columns :
+The dataset contains 7 feature columns, 1 label/target column ('Price') and 5000 rows with CSV extension. The data contains the following columns :
 
 - Avg. Area Income’ – Avg. The income of the householder of the city house is located.
 
