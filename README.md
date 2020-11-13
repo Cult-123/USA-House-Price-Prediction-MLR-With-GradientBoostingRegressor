@@ -19,3 +19,19 @@ The dataset contains 7 columns and 5000 rows with CSV extension. The data contai
 - ‘Price’ – Price that the house sold at.
 
 - ‘Address’ – Address of the houses.
+
+- ‘House-Category’ – Category of the houses as per price.
+
+## Project Overview
+In this Project I have unleashed the useful Data Science insights using this House Price dataset and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity & Heteroscedasticity problem.
+
+## Selected Features for the Model
+**1. Avg. Area Income:**
+
+**2. Avg. Area House Age:**
+
+**3. Avg. Area Number of Rooms:**
+
+**4. Area Population:**
+
+**5. HouseCategory:** (Luxuary & Standard)
