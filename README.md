@@ -52,7 +52,7 @@ In this Project I have unleashed the useful Data Science insights using this Hou
 24. [Heteroscedasticity Tests](#het-test)
 25. [Auto-Correlation plot](#auto-plot)
 
-## Selected Features for the Model
+## Selected Features for the Final Model
 **1. Avg. Area Income:**
 
 **2. Avg. Area House Age:**
