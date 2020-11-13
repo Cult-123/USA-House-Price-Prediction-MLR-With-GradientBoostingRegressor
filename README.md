@@ -25,6 +25,33 @@ The dataset contains 7 columns and 5000 rows with CSV extension. The data contai
 ## Project Overview
 In this Project I have unleashed the useful Data Science insights using this House Price dataset and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity & Heteroscedasticity problem.
 
+## This Project is divided into 28 major steps which are as follows:
+1. [Check out the Data](#data-check)
+2. [Importing Libraries & setting up environment](#imp-lib)
+3. [Loading dataset](#data-load)
+4. [Data Cleaning & Preprocessing](#prep-clean)
+5. [Shapiro for Normality test of All Numeric Columns](#shapiro-norm)
+6. [Pearson & Spearman rank Correlation Test for Measures of Association](#spear-corr)
+7. [Outlier Treatment/Check](#out-check)
+8. [Skewness Check](#skew-check)
+9. [Exploratory Data Analysis ( EDA )](#data-expo)
+11. [New Feature Creation](#new-feature)
+12. [Assigning Label & Features](#Labe-Feature)
+13. [Features Encoding Technique](#Features-Encoding)
+14. [Scaling of Numeric Features](#scale-feature)
+15. [Train & Test Split](#data-split)
+16. [Features P-Value & VIF Check](#p-vif)
+17. [Final Implimentation of the MLR Model](#final-model)
+18. [Model Evaluation](#mod-eval)
+19. [Predictions from our Model](#actual-predicted)
+20. [Residual Distribution of Predicted House Price](#re-dit)
+21. [Amount of Error in House Price Prediction](#amt-er)
+22. [Durbin Watson Auto-Correlation Test](#dur-wat)
+23. [Regression Evaluation Metrics](#mod-eval)
+24. [Plotting the Regression Line](#reg-plot)
+25. [Heteroscedasticity Tests](#het-test)
+26. [Auto-Correlation plot](#auto-plot)
+
 ## Selected Features for the Model
 **1. Avg. Area Income:**
 
