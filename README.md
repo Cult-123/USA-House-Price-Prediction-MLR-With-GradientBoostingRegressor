@@ -4,7 +4,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with 93.16
 ## Problem Statement
 A real state agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model. Create a model that will help him to estimate of what the house would sell for.
 
-The dataset contains 7 columns and 5000 rows with CSV extension. The data contains the following columns :
+The dataset contains 6 feature columns, 1 label/target column ('Price') and 5000 rows with CSV extension. The data contains the following columns :
 
 - Avg. Area Income’ – Avg. The income of the householder of the city house is located.
 
@@ -35,22 +35,22 @@ In this Project I have unleashed the useful Data Science insights using this Hou
 7. [Outlier Treatment/Check](#out-check)
 8. [Skewness Check](#skew-check)
 9. [Exploratory Data Analysis ( EDA )](#data-expo)
-11. [New Feature Creation](#new-feature)
-12. [Assigning Label & Features](#Labe-Feature)
-13. [Features Encoding Technique](#Features-Encoding)
-14. [Scaling of Numeric Features](#scale-feature)
-15. [Train & Test Split](#data-split)
-16. [Features P-Value & VIF Check](#p-vif)
-17. [Final Implimentation of the MLR Model](#final-model)
-18. [Model Evaluation](#mod-eval)
-19. [Predictions from our Model](#actual-predicted)
-20. [Residual Distribution of Predicted House Price](#re-dit)
-21. [Amount of Error in House Price Prediction](#amt-er)
-22. [Durbin Watson Auto-Correlation Test](#dur-wat)
-23. [Regression Evaluation Metrics](#mod-eval)
-24. [Plotting the Regression Line](#reg-plot)
-25. [Heteroscedasticity Tests](#het-test)
-26. [Auto-Correlation plot](#auto-plot)
+10. [New Feature Creation](#new-feature)
+11. [Assigning Label & Features](#Labe-Feature)
+12. [Features Encoding Technique](#Features-Encoding)
+13. [Scaling of Numeric Features](#scale-feature)
+14. [Train & Test Split](#data-split)
+15. [Features P-Value & VIF Check](#p-vif)
+16. [Final Implimentation of the MLR Model](#final-model)
+17. [Model Evaluation](#mod-eval)
+18. [Predictions from our Model](#actual-predicted)
+19. [Residual Distribution of Predicted House Price](#re-dit)
+20. [Amount of Error in House Price Prediction](#amt-er)
+21. [Durbin Watson Auto-Correlation Test](#dur-wat)
+22. [Regression Evaluation Metrics](#mod-eval)
+23. [Plotting the Regression Line](#reg-plot)
+24. [Heteroscedasticity Tests](#het-test)
+25. [Auto-Correlation plot](#auto-plot)
 
 ## Selected Features for the Model
 **1. Avg. Area Income:**
