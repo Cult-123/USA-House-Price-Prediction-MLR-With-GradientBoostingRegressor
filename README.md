@@ -6,4 +6,4 @@ A real state agents want help to predict the house price for regions in the USA.
 
 The dataset contains 7 columns and 5000 rows with CSV extension. The data contains the following columns :
 
--Avg. Area Income’ – Avg. The income of the householder of the city house is located.
+- Avg. Area Income’ – Avg. The income of the householder of the city house is located.
