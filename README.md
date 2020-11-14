@@ -1,5 +1,12 @@
 # USA-House-Price-Prediction-MLR
-Python Data Science Project, Used Car Price Prediction using MLR algo with 93.16% accuracy, RMSE: 91219, MAE: 73380, Mallow's_CP: 0.001, D_Watson: 1.99, No Multicollinearity, Homoscedastic Residual/Error Distribution
+Python Data Science Project, Used Car Price Prediction using MLR algo with:
+- 93.16% accuracy
+- RMSE: 91219
+- MAE: 73380
+- Mallow's_CP: 0.001
+- D_Watson: 1.99
+- No Multicollinearity
+- Homoscedastic Residual/Error Distribution
 
 ## Problem Statement
 A real state agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model. Create a model that will help him to estimate of what the house would sell for.
