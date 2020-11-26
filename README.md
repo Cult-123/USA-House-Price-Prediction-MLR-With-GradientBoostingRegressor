@@ -1,6 +1,7 @@
 # USA-House-Price-Prediction-MLR-With-Gradient-Boosting-Regressor
-Python Data Science Project, Used Car Price Prediction using MLR algo with:
-- 93.16% accuracy
+Python Data Science Project, Used Car Price Prediction using MLR algo with GradientBoostingRegressor:
+- 93.16% accuracy (MLR)
+- 92.59% accuracy (GradientBoostingRegressor)
 - RMSE: 91219
 - MAE: 73380
 - Mallow's_CP: 0.001
@@ -9,7 +10,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with:
 - Homoscedastic Residual/Error Distribution
 
 ## Problem Statement
-A real state agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model. Create a model that will help him to estimate of what the house would sell for.
+A real state agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model along with GradientBoostingRegressor. Create a model that will help him to estimate of what the house would sell for.
 
 The dataset contains 7 feature columns, 1 label/target column ('Price') and 5000 rows with CSV extension. The data contains the following columns :
 
@@ -30,9 +31,9 @@ The dataset contains 7 feature columns, 1 label/target column ('Price') and 5000
 - ‘House-Category’ – Category of the houses as per price.
 
 ## Project Overview
-In this Project I have unleashed the useful Data Science insights using this House Price dataset and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity & Heteroscedasticity problem.
+In this Project I have unleashed the useful Data Science insights using this House Price dataset and performed the feature selection precisely to build multiple linear regression model along with GradientBoostingRegressor by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity & Heteroscedasticity problem.
 
-## This Project is divided into 25 major steps which are as follows:
+## This Project is divided into 27 major steps which are as follows:
 1. [Check out the Data](#data-check)
 2. [Importing Libraries & setting up environment](#imp-lib)
 3. [Loading dataset](#data-load)
@@ -58,6 +59,8 @@ In this Project I have unleashed the useful Data Science insights using this Hou
 23. [Plotting the Regression Line](#reg-plot)
 24. [Heteroscedasticity Tests](#het-test)
 25. [Auto-Correlation plot](#auto-plot)
+26. [Gradient Boosting For Regression](#grad-boost)
+27. [Mean 'r2' Score by Gradient Boosting Regression](#grad-reg)
 
 ## Selected Features for the Final Model
 **1. Avg. Area Income:**
