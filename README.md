@@ -4,7 +4,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with Gradi
 - 94.71% accuracy (GradientBoostingRegressor)
 - RMSE: 79396
 - MAE: 61699
-- Mallow's_CP: 0.001
+- Mallow's_CP: 0.00
 - D_Watson: 1.99
 - No Multicollinearity
 - Homoscedastic Residual/Error Distribution
