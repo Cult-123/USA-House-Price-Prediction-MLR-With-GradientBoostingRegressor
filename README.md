@@ -5,7 +5,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with Gradi
 - RMSE: 79396
 - MAE: 61699
 - Mallow's_CP: 0.00
-- D_Watson: 1.99
+- D_Watson: 2.06
 - No Multicollinearity
 - Homoscedastic Residual/Error Distribution
 
