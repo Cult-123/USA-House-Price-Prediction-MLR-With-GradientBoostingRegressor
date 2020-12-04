@@ -1,11 +1,11 @@
 # USA-House-Price-Prediction-MLR-With-Gradient-Boosting-Regressor
 Python Data Science Project, Used Car Price Prediction using MLR algo with GradientBoostingRegressor:
 - 93.16% accuracy (MLR)
-- 94.71% accuracy (GradientBoostingRegressor)
-- RMSE: 79396
-- MAE: 61699
+- 94.87% accuracy (GradientBoostingRegressor)
+- RMSE: 77356
+- MAE: 61693
 - Mallow's_CP: 0.00
-- D_Watson: 2.06
+- D_Watson: 1.93
 - No Multicollinearity
 - Homoscedastic Residual/Error Distribution
 
