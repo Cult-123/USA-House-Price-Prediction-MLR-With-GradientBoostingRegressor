@@ -1,5 +1,5 @@
 # USA-House-Price-Prediction-MLR-With-Gradient-Boosting-Regressor
-Python Data Science Project, Used Car Price Prediction using MLR algo with GradientBoostingRegressor:
+Python Data Science Project, USA House Price Prediction using MLR algo with GradientBoostingRegressor:
 - 93.16% accuracy (MLR)
 - 94.87% accuracy (GradientBoostingRegressor)
 - RMSE: 77356
@@ -10,7 +10,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with Gradi
 - Homoscedastic Residual/Error Distribution
 
 ## Problem Statement
-A real state agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model along with GradientBoostingRegressor. Create a model that will help him to estimate of what the house would sell for.
+A real estate agents want help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use the Linear Regression Model along with GradientBoostingRegressor. Create a model that will help him to estimate of what the house would sell for.
 
 The dataset contains 7 feature columns, 1 label/target column ('Price') and 5000 rows with CSV extension. The data contains the following columns :
 
