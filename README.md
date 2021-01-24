@@ -2,10 +2,13 @@
 Python Data Science Project, USA House Price Prediction using MLR algo with GradientBoostingRegressor:
 - 93.16% accuracy (MLR)
 - 94.87% accuracy (GradientBoostingRegressor)
+- Multiple Regression Model Overall F-test for Regression Line Slope = MSR/MSE = 7167
+- Kurtosis/Peakedness=[M4/M2^2]=2.926
+- Skewness=Mean-Mode=Negative=-0.053
 - RMSE: 77356
 - MAE: 61693
 - Mallow's_CP: 0.00
-- D_Watson: 1.93
+- D_Watson: 1.985
 - No Multicollinearity
 - Homoscedastic Residual/Error Distribution
 
